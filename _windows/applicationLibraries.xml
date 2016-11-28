@@ -604,14 +604,30 @@
     </library>
     <library name="pg (v0.18.4, ruby-2.2.4-p230) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.18.4" />
         <root url="file://F:/Rails/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.18.4-x86-mingw32/ext" />
         <root url="file://F:/Rails/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.18.4-x86-mingw32/lib" />
         <root url="file://F:/Rails/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.18.4-x86-mingw32/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.18.4" />
         <root url="file://F:/Rails/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.18.4-x86-mingw32/ext" />
         <root url="file://F:/Rails/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.18.4-x86-mingw32/lib" />
         <root url="file://F:/Rails/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.18.4-x86-mingw32/sample" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.19.0, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.19.0" />
+        <root url="file://F:/Rails/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.19.0-x86-mingw32/ext" />
+        <root url="file://F:/Rails/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.19.0-x86-mingw32/lib" />
+        <root url="file://F:/Rails/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.19.0-x86-mingw32/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.19.0" />
+        <root url="file://F:/Rails/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.19.0-x86-mingw32/ext" />
+        <root url="file://F:/Rails/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.19.0-x86-mingw32/lib" />
+        <root url="file://F:/Rails/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.19.0-x86-mingw32/sample" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.2, ruby-2.2.4-p230) [gem]">
